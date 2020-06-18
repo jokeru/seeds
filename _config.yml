@@ -1,1 +1,10 @@
 theme: jekyll-theme-cayman
+
+title: seeds
+description: just planting a seed or two
+author: JoKeru
+
+permalink: /:title.html
+
+plugins:
+  - jekyll-feed
