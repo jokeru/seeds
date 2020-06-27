@@ -6,5 +6,3 @@ permalink: /:title.html
 
 plugins:
   - jekyll-feed
-
-theme: jekyll-theme-cayman
