@@ -1,3 +1,3 @@
 # seeds
 
-## https://seeds.jokeru.ro
+## https://seeds.jokeru.ro
