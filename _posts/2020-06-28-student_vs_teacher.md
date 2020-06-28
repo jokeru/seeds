@@ -7,14 +7,14 @@ date: 2020-06-28
 
 ## Student vs Teacher
 
-### v1
+### phase 1
 
 *When the student is ready  
 The teacher will appear.*
 
-### v2
+### phase 2
 
 *When the student is truly ready  
-The teacher will **Disappear**.*
+The teacher will **disappear**.*
 
-> _source: Lao Tzu @ Tao Te Ching
+> source: Lao Tzu @ Tao Te Ching
