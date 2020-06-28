@@ -28,7 +28,7 @@
 
     <main id="content" class="main-content" role="main">
       {{ content }}
-      
+      <br>
       <div class="PageNavigation">
         <a class="prev" href="{% if page.previous.url %}{{page.previous.url}}{% endif %}">{% if page.previous.url %}&laquo; {{page.previous.title}}{% endif %}</a>
         <a class="next" href="{% if page.next.url %}{{page.next.url}}{% endif %}">{% if page.next.url %}{{page.next.title}} &raquo;{% endif %}</a>
