@@ -30,8 +30,10 @@
       {{ content }}
       
       <footer class="site-footer">
-        <span class="site-footer-owner">the <a href="{{ '/' | absolute_url }}">{{ site.title }}</a> are maintained by {{ site.author }} and hosted by <a href="https://pages.github.com">GitHub Pages</a></span>
-        <p><a href="/feed.xml" target="_blank">RSS Feed</a> me</p>
+        <span class="site-footer-owner">
+          <a href="/feed.xml" target="_blank">RSS Feed</a> / 
+          the <a href="{{ '/' | absolute_url }}">{{ site.title }}</a> are maintained by {{ site.author }} and hosted by <a href="https://pages.github.com">GitHub Pages</a>
+        </span>
       </footer>
       
     </main>
