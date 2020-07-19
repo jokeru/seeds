@@ -7,16 +7,16 @@ date: 2020-07-20
 
 ## Listen with LOVE
 
-### Listen
+### (L)isten
 Listen attentively and be focused to everything the other is saying.
 
-### Observe
+### (O)bserve
 Observe beyond words: tone, body language of the other and also notice what is going on with yourself.
 
-### Verify
+### (V)erify
 By feeding back what you heard and checking out your intuitions when appropriate.
 
-### Empathise
+### (E)mpathise
 To be with the other and accurately experience what the other is feeling and experiencing.  
 To be loving, compassionate, and non-judgmental.
 
