@@ -8,8 +8,8 @@ index: 11
 
 ## Couples fight about
 
-### Power and Control
-### Closeness and Care
-### Respect and Recognition
+- Power and Control
+- Closeness and Care
+- Respect and Recognition
 
 > _Esther Perel_
