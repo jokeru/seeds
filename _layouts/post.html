@@ -33,7 +33,9 @@
         <a class="prev" href="{% if page.previous.url %}{{page.previous.url}}{% endif %}">{% if page.previous.url %}&laquo; {{page.previous.title}}{% endif %}</a>
         <a class="next" href="{% if page.next.url %}{{page.next.url}}{% endif %}">{% if page.next.url %}{{page.next.title}} &raquo;{% endif %}</a>
       </div>
-      
+
+      {% include disqus.html %}
+
       <footer class="site-footer">
         <span class="site-footer-credits">
           <a href="/feed.xml" target="_blank">RSS Feed</a> // 
