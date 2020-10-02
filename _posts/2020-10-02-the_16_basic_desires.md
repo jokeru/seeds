@@ -6,7 +6,10 @@ index: 16
 ---
 
 
-The 16 Basic Desires Theory is a theory of motivation.  
+## The 16 Basic Desires Theory
+
+Is a theory of motivation.  
+
 These desires are what drive our everyday actions and make us who we are.  
 What makes individuals unique is the combination and ranking of these desires.  
 
