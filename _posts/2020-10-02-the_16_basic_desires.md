@@ -6,7 +6,7 @@ index: 16
 ---
 
 
-## The 16 Basic Desires Theory
+## The 16 Basic Desires Theory
 
 Is a theory of motivation.  
 
