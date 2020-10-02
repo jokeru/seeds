@@ -16,7 +16,7 @@ Objectively observing the situation - without evaluation, blame or moralistic ju
 Identifying the feelings that the situation brings up
 
 ### [N]eeds
-Connect with the need that is not being met (you could use [The 16 Basic Desire]({{ site.baseurl }}{% link 2020-10-02-the_16_basic_desires.md %}) model)
+Connect with the need that is not being met - you could use [The 16 Basic Desires]({% post_url 2020-10-02-the_16_basic_desires %}) model
 
 ### [R]equests
 Make a request that would better meet your needs
