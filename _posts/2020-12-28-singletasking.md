@@ -18,7 +18,7 @@ Multitasking is a myth. Multitasking is just context switching. Each of those sw
 #### distractions off
 - phone, apps, tabs, music, everything must be off / out of sight
 
-### baby steps
+#### baby steps
 - start small (5 min) but do set a timer and stick to it
 - increase - you can use the Pomodoro technique
 - now you can focus for hours
