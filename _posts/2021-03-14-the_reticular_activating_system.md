@@ -10,7 +10,8 @@ index: 22
 
 The reticular activating system (RAS) is a network of neurons located in the brain stem which performs a crucial role in maintaining behavioural arousal, consciousness, and motivation.  
 
-It is the portal through which nearly all information enters the brain (smells are the exception - they go directly into your brain’s emotional area). The RAS filters the incoming information and affects what you pay attention to, how aroused you are, and what is not going to get access to all three pounds of your brain.  
+It is the portal through which nearly all information enters the brain (smells are the exception - they go directly into your brain’s emotional area). The RAS filters the incoming information and affects what you pay attention to, how aroused you are, and what is not going to get access to all three pounds of your brain.  
+
 The filter is there to protect you: you can't take in all the information & the stimuli out there, have all the thoughts at once - it would overwhelm your system.  
 
 ### Example
