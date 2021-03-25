@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "May the FORCE be with You"
+title: "may the FORCE be with you"
 date: 2021-03-25
 index: 23
 ---
 
 
-## May the FORCE be with You
+## may the FORCE be with you
 
 The FORCE is coming from cognitive distortions (ways that our mind convinces us of something that isn't really true), Cognitive Behavioral Therapy.
 
