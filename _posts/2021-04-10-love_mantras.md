@@ -6,9 +6,7 @@ index: 25
 ---
 
 
-## Love Mantras
-
-### turn Fear into Love
+## Love Mantras - turn Fear into Love
 
 Mantra for Offering Your Presence:  
 _Dear one, I am here for you._
