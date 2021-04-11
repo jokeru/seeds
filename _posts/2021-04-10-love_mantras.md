@@ -21,4 +21,4 @@ Mantra for Reaching Out to Ask for Help:
 _Dear one, I am suffering. Please help._
 
 
-> Source: [Maria Popova](https://www.brainpickings.org/2020/12/01/thich-nhat-hanh-fear-love/)
+> via [Maria Popova](https://www.brainpickings.org/2020/12/01/thich-nhat-hanh-fear-love/)
