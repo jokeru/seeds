@@ -9,7 +9,7 @@ index: 26
 ## the Hero's Journey
 
 | Step | World | Act | 
-|---|-------|-----|
+|------|-------|-----|
 | 1. Ordinary World | Ordinary World | Act I - Separation |
 | 2. Call to Adventure | Ordinary World | Act I - Separation |
 | 3. Refusal of the Call | Ordinary World | Act I - Separation |
