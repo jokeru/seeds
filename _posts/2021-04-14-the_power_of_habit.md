@@ -8,6 +8,7 @@ index: 28
 
 ## the power of Habit
 
+### Definition
 | # | Phase | Brain activity |
 |---|-------|------------------|
 | 1 | Cue / Trigger | High |
