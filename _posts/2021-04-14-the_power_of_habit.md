@@ -10,7 +10,7 @@ index: 28
 
 ### Definition
 | # | Phase | Brain activity |
-|---|-------|----------------|
+| - | ----- | -------------- |
 | 1 | Cue / Trigger | High |
 | 2 | Routine | Low (automatic) |
 | 3 | Reward | High |
