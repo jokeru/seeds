@@ -9,6 +9,7 @@ index: 28
 ## the power of Habit
 
 ### Definition
+
 | # | Phase | Brain activity |
 |---|-------|----------------|
 | 1 | Cue / Trigger | High |
@@ -16,6 +17,7 @@ index: 28
 | 3 | Reward | High |
 
 ### Tools
+
 * [Chains](https://chains.cc)
 
 
