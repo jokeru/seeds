@@ -35,10 +35,21 @@ PREPARE:
 - decide how to **R**ender your pretext: when, where, how you'll approach the subject  
 - **E**valuate if all this will leave the subject in a better position  
 
-### build rapport
-(release oxitocine) with others
-- place the other in a position of authority
+### build rapport (releases oxytocine)
+Couple ways:
+- provide a pretext and invent an artificial time limit: can I bother your for 2 minutes, I'm new to the area and I'm looking for a good restaunt
+- offer personal information about you that the subject can relate to
+- place the other in a position of authority (like asking for an advice)
 
-- principle of influence
+### principles of influence
+Reciprocation for eg - offer something valuable, and the favor will be returned.
+Place yourself in a position of authority & knowledge and you'll earn their trust.
+Elicitation - get the information you want without asking
+ - state a reported fact (I've read that ...)
+ - make false statements, you'll be corrected (people born in Feb like to eat strwberries)
 
-- elicitation - get the information you want without asking
+### body language
+- open ventrals
+- mirroring (if you smile, the other one will mirror you)
+
+> Christopher Hadnagy
